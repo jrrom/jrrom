@@ -1,3 +1,5 @@
 #+TITLE: jrrom
 
-[[https://readme-typing-svg.demolab.com/?lines=www.jrrom.com]]
+#+begin_export markdown
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=www.jrrom.com)
+#+end_export

@@ -1,5 +1,3 @@
 #+TITLE: jrrom
 
-#+begin_export markdown
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=www.jrrom.com)
-#+end_export
+[[https://jrrom.com][Website: jrrom.com]] | Email: web[at]jrrom[dot]com

@@ -12,12 +12,12 @@
 
 ## Contributions
 
-<div align="center">
-
 ![NixOS](https://img.shields.io/badge/-NixOS-05122A?style=flat&logo=nixos)&nbsp;
-I'm a NixOS package maintainer
 
-</div>
+
+- I'm a NixOS package maintainer: [nixpkgs](https://github.com/NixOS/nixpkgs "nixpkgs") [23.3k★]
+- I contributed to the standard library of [🍃 mint-lang](https://github.com/mint-lang/mint "mint-lang") [4.2k★]
+- I helped develop NixOS tooling for Cosmic DE [cosmic-manager](https://github.com/HeitorAugustoLN/cosmic-manager "cosmic-manager") [100★]
 
 ## Analytics
 

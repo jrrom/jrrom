@@ -11,14 +11,13 @@
 🎁 &nbsp;...and contributing more to my favourite open source tools and projects
 
 ## Contributions
-<p>
-  <img
-    src="https://img.shields.io/badge/-NixOS-05122A?style=flat&logo=nixos"
-    alt="NixOS"
-    align="middle"
-  />
-  I'm a NixOS package maintainer
-</p>
+
+<div align="center">
+
+![NixOS](https://img.shields.io/badge/-NixOS-05122A?style=flat&logo=nixos)&nbsp;
+I'm a NixOS package maintainer
+
+</div>
 
 ## Analytics
 

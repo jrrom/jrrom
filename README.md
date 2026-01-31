@@ -12,8 +12,10 @@
 
 ## Contributions
 
-![NixOS](https://img.shields.io/badge/-Python-05122A?style=flat&logo=nixos)&nbsp;
+<p>
+![NixOS](https://img.shields.io/badge/-NixOS-05122A?style=flat&logo=nixos)&nbsp;
 I'm a NixOS package maintainer
+</p>
 
 ## Analytics
 

@@ -10,6 +10,11 @@
 🔬 &nbsp;Right now, my interests lie in delving deeper into functional programming... \
 🎁 &nbsp;...and contributing more to my favourite open source tools and projects
 
+## Contributions
+
+![NixOS](https://img.shields.io/badge/-Python-05122A?style=flat&logo=nixos)&nbsp;
+I'm a NixOS package maintainer
+
 ## Analytics
 
 [![trophy](https://trophy.ryglcloud.net/?username=jrrom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

@@ -12,7 +12,8 @@
 
 ## Contributions
 
-![NixOS](https://img.shields.io/badge/-NixOS-05122A?style=flat&logo=nixos)&nbsp;
+![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat&logo=nixos)&nbsp;
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell)&nbsp;
 
 
 - I'm a NixOS package maintainer: [nixpkgs](https://github.com/NixOS/nixpkgs "nixpkgs") [23k★]

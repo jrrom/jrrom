@@ -28,8 +28,9 @@
 - I'm a NixOS package maintainer: [nixpkgs](https://github.com/NixOS/nixpkgs "nixpkgs") [23k★]
 - I contributed to the standard library of [🍃 mint-lang](https://github.com/mint-lang/mint "mint-lang") [4k★]
 - I added my website as an example for [Hakyll](https://github.com/jaspervdj/hakyll) [3k★]
-- I helped develop NixOS tooling for Cosmic DE [cosmic-manager](https://github.com/HeitorAugustoLN/cosmic-manager "cosmic-manager") [100★]
+- I helped develop NixOS tooling for Cosmic DE: [cosmic-manager](https://github.com/HeitorAugustoLN/cosmic-manager "cosmic-manager") [100★]
 - Published packages to [PyPI](https://pypi.org/user/jrrom/) and the [PureScript Registry](https://pursuit.purescript.org/packages/purescript-nqueens)
+- I maintain a NixOS flake for Infomaniak kDrive support: [desktop-kDrive-flake](https://github.com/jrrom/desktop-kDrive-flake)
 
 ## Blogposts
 Newest first:

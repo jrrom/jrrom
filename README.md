@@ -31,6 +31,7 @@
 - I helped develop NixOS tooling for Cosmic DE: [cosmic-manager](https://github.com/HeitorAugustoLN/cosmic-manager "cosmic-manager") [100★]
 - Published packages to [PyPI](https://pypi.org/user/jrrom/) and the [PureScript Registry](https://pursuit.purescript.org/packages/purescript-nqueens)
 - I maintain a NixOS flake for Infomaniak kDrive support: [desktop-kDrive-flake](https://github.com/jrrom/desktop-kDrive-flake)
+- I work on games! https://jrrom.itch.io/
 
 ## Blogposts
 Newest first:
